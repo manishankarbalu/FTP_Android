@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\tab\FTP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="F:\tab\FTP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_cf5262296c65bbe06d94c66260321bba0f061193\classes.dex" />
+    </item>
+    <item
+        jar="F:\tab\FTP\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="F:\tab\FTP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_f136217a26599adbbf4e8066b88d5cdfd0223f39\classes.dex" />
+    </item>
+    <item
+        jar="F:\tab\FTP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="F:\tab\FTP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_0345fd935b1e54bbc56ab681452932520e1ba7a3\classes.dex" />
+    </item>
+    <item
+        jar="F:\tab\FTP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7492fe7eabbebc2fd93e93258f3991db09544bf4">
+        <dex dex="F:\tab\FTP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4b1bba9396ddca7fd88196102269f332902bb0e2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="F:\tab\FTP\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_2b926c23b4b1374e3ff16ac2a987d823130506af\classes.dex" />
+    </item>
+    <item
+        jar="F:\tab\FTP\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="F:\tab\FTP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_4e768a2aa9682a068d70583a9fade553c98a5cc3\classes.dex" />
+    </item>
+    <item
+        jar="F:\tab\FTP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="465ea3864b46febc888f66c2cd13ae5a0ae3f2f4">
+        <dex dex="F:\tab\FTP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_759d9723c1c6ed99eb3c8c51878b4158dece2e44\classes.dex" />
+    </item>
+    <item
+        jar="F:\tab\FTP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="F:\tab\FTP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_103a2ad75f94b5543b98042757f33019098694b6\classes.dex" />
+    </item>
+
+</items>
